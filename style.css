@@ -1,0 +1,13 @@
+.judulHalaman {
+    color: red;
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+.gambarAwal{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
